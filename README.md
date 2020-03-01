@@ -73,6 +73,8 @@ And I felt like I should add additional topping to this function (below) but did
 
 <a href="https://ibb.co/FXk62pK"><img src="https://i.ibb.co/W0NnZC6/Screenshot-2020-02-29-at-21-50-39.png" alt="Screenshot-2020-02-29-at-21-50-39" border="0"></a>
 
+* Since last class and still, I am not sure I am getting what 'nodeman' does but I feel like I can maybe get it in a while, so it's more like a note to me.
+
 ## Designing my API
 
 Ideas of what I could build with the data that I have on my computer.
